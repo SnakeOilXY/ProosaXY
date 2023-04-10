@@ -5,5 +5,5 @@
 
 
 # ProosaXY
-Low cost CoreXY conversion for Prusa Mk2/3 using as much as stock parts as possible. This build is aiming at getting more performance of your 6 years old "industry leading technology" machine with the lowest cost possible.
+CoreXY conversion for Prusa Mk2.5/3. This build is aiming at getting more performance of your 6 years old "industry leading technology" machine with the lowest cost possible by re-using the mk2.5/mk3 stock parts.
 
