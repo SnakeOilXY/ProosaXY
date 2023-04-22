@@ -8,3 +8,6 @@
 # ProosaXY
 CoreXY conversion for Prusa Mk2.5/3. This build is aiming at getting more performance out of your 6 years old "industry leading technology" machine with the lowest cost possible by re-using the mk2.5/mk3 stock parts.
 
+## Status
+
+Might take a month or two for us to complete design all the parts. For updates, please visit our [Discord server](https://discord.gg/WZVP2HuAag)
