@@ -6,8 +6,13 @@
 
 
 # ProosaXY
-CoreXY conversion for Prusa Mk2.5/3. This build is aiming at getting more performance out of your 6 years old "industry leading technology" machine with the lowest cost possible by re-using the mk2.5/mk3 stock parts.
+CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performance out of your 6 years old "industry leading technology" machine with the lowest cost possible by re-using the MK3/S stock parts.
 
 ## Status
 
-Might take a month or two for us to complete design all the parts. For updates, please visit our [Discord server](https://discord.gg/WZVP2HuAag)
+- The first beta is planned to release at the end of May.
+- Might take a month or two for us to complete design all the optional parts. 
+- For updates, please visit our [Discord server](https://discord.gg/WZVP2HuAag)
+
+## BOM
+[>>> Bill of materials (work in progress) <<<](./doc/bom.md)
