@@ -8,6 +8,14 @@
 # ProosaXY
 CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performance out of your 6 years old "industry leading technology" machine with the lowest cost possible by re-using the MK3/S stock parts.
 
+## Features
+
+- Semi-enclosure by default
+- Dual z axis(default) or independent tripple Z axis(Optional)
+- Single v6 hotend(default) or mixed 2-in-1-out hotend(WIP)
+- Optional AUX cooling fan
+- Our industrial leading SnakeOil technology
+
 ## Status
 
 - The first beta is planned to release at the end of May.
