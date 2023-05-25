@@ -6,7 +6,7 @@
 
 
 # ProosaXY
-CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performance out of your 6 years old "industry leading technology" machine with the lowest cost possible by re-using the MK3/S stock parts.
+CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performance out of your 6 years old machine with the lowest cost possible by re-using the MK3/S stock parts.
 
 ## Features
 
@@ -21,6 +21,9 @@ CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performa
 - The first beta is planned to release at the end of May.
 - Might take a month or two for us to complete design all the optional parts. 
 - For updates, please visit our [Discord server](https://discord.gg/WZVP2HuAag)
+
+![](./doc/preview.png)
+
 
 ## BOM
 [>>> Bill of materials (work in progress) <<<](./doc/bom.md)
