@@ -26,4 +26,4 @@ CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performa
 
 
 ## BOM
-[>>> Bill of materials (work in progress) <<<](./doc/bom.md)
+[>>> Bill of materials (work in progress) <<<](./doc/BOM/bom.md)
