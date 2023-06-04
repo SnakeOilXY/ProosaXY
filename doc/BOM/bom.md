@@ -23,7 +23,7 @@ __*This BOM is still a work in progress.__
             <td>Frame</td>
             <td>1 set </td>
             <td><a href="#" rel="nofollow"></a></td>
-            <td>Check [Frame BOM](./bom-frame)</td>
+            <td>Check Frame BOM(https://github.com/SnakeOilXY/ProosaXY/blob/master/doc/BOM/bom-frame.md)</td>
             <td></td>
         </tr>
         <tr>
