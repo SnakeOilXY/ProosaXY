@@ -6,24 +6,26 @@
 
 
 # ProosaXY
-CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performance out of your 6 years old machine with the lowest cost possible by re-using the MK3/S stock parts.
+CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performance out of your 6 years old machine with the lowest cost possible by re-using most the MK3/S stock parts.
 
 ## Features
 
 - Semi-enclosure by default
-- Dual z axis(default) or independent tripple Z axis(Optional)
+- ~~Dual z axis(default) or independent tripple Z axis(Optional)~~ Triple Z (independent or sync based on controller board) by default or dual Z(optional)
 - Single v6 hotend(default) or mixed 2-in-1-out hotend(WIP)
 - Optional AUX cooling fan
 - Our industrial leading SnakeOil technology
 
 ## Status
 
-- The first beta is planned to release at the end of May.
+- All the main parts design are completed. Test print result are posted in our [Discord server](https://discord.gg/WZVP2HuAag)
+- ~~The first beta is planned to release at the end of May.~~ I'm a little late. Will take me a few extra weeks to work on the BOM and the CAD assembly.
 - Might take a month or two for us to complete design all the optional parts. 
 - For updates, please visit our [Discord server](https://discord.gg/WZVP2HuAag)
 
 ![](./doc/preview.png)
 
+![](./doc/shaper.png)
 
 ## BOM
 [>>> Bill of materials (work in progress) <<<](./doc/BOM/bom.md)
