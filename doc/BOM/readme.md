@@ -76,7 +76,7 @@ __*This BOM is still a work in progress.__
             <td></td>
         </tr>
         <tr>
-            <td>New Z motor</td>
+            <td>New E motor</td>
             <td>1</td>
             <td><a href="https://s.click.aliexpress.com/e/_DF5e9Ol" rel="nofollow">Aliexpress</a></td>
             <td>Round nema14 17mm thick</td>
