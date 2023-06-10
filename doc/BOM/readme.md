@@ -55,10 +55,10 @@ __*This BOM is still a work in progress.__
             <td></td>
         </tr>
         <tr>
-            <td>2GT belt</td>
-            <td>???</td>
-            <td><a href="#" rel="nofollow"></a></td>
-            <td>Total length is not caculated yet</td>
+            <td>2GT belt 6mm wide</td>
+            <td>4m</td>
+            <td><a href="https://s.click.aliexpress.com/e/_DemEEAz" rel="nofollow"></a> or <a href="">E3D</a></td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
@@ -66,26 +66,82 @@ __*This BOM is still a work in progress.__
             <td>1</td>
             <td><a href="https://www.bondtech.se/product/shaft-assembly/" rel="nofollow">Bondtech</a></td>
             <td>BMG plastic gear</td>
-            <td></td>
+            <td>Or get sherpa mini extruder full kit</td>
         </tr>
         <tr>
             <td>Bearing for BMG shaft</td>
             <td>2</td>
             <td><a href="https://www.bondtech.se/product/ballbearing-5x8x2-5/" rel="nofollow">Bondtech</a></td>
             <td>BMG plastic gear</td>
-            <td></td>
+            <td>Or get sherpa mini extruder full kit</td>
         </tr>
         <tr>
             <td>New E motor</td>
             <td>1</td>
             <td><a href="https://s.click.aliexpress.com/e/_DF5e9Ol" rel="nofollow">Aliexpress</a></td>
             <td>Round nema14 17mm thick</td>
+            <td>Or get sherpa mini extruder full kit</td>
+        </tr>
+        <tr>
+            <td>3rd Z motor (17hs3401s T8x8-310MM)</td>
+            <td>1</td>
+            <td><a href="https://s.click.aliexpress.com/e/_DBeGMNb" rel="nofollow">Aliexpress</a></td>
+            <td>Will need to be cut to the right length.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>8mm linear shaft</td>
+            <td>1</td>
+            <td><a href="" rel="nofollow">Aliexpress</a></td>
+            <td>Will need to be cut to the right length.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>MR115ZZ bearing</td>
+            <td>2</td>
+            <td><a href="" rel="nofollow">Aliexpress</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>New POM T8 nut(lead 8mm)</td>
+            <td>3</td>
+            <td><a href="https://s.click.aliexpress.com/e/_DmUKgsv" rel="nofollow">Aliexpress</a></td>
+            <td>Get standard diameter 22mm type. Old POM nuts are big and won't fit.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Rubber feet</td>
+            <td>4pcs (1set)</td>
+            <td><a href="https://s.click.aliexpress.com/e/_DB4UmaV" rel="nofollow">Aliexpress</a></td>
+            <td>TPU printed version also available</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2GT 20t 6mm pulley</td>
+            <td>2</td>
+            <td><a href="https://s.click.aliexpress.com/e/_DDZ5nYV" rel="nofollow">Aliexpress</a> or <a href="https://e3d-online.com/products/gates-belts-pulleys-and-idlers">E3D</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Din rail 329mm</td>
+            <td>2</td>
+            <td><a href="" rel="nofollow"></a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Din rail 399mm</td>
+            <td>1</td>
+            <td><a href="" rel="nofollow"></a></td>
+            <td></td>
             <td></td>
         </tr>
     <tbody>
 </table>
 
-## Option parts(part numbers are not decided yet)
+## Option parts(highly recommended)
 
 <table>
     <thead>
@@ -106,23 +162,16 @@ __*This BOM is still a work in progress.__
             <td></td>
         </tr>
         <tr>
-            <td>New XY motors</td>
+            <td>New XY motors (E3D High Torque Motor)</td>
             <td>2</td>
-            <td><a href="#" rel="nofollow"></a></td>
+            <td><a href="https://e3d-online.com/products/motors" rel="nofollow">E3D</a></td>
             <td>The stock Prusa motor have very high inductance(13mH) make it not suitable for high speed application.</td>
             <td></td>
         </tr>
         <tr>
-            <td>Extra 3rd Z motor(optional)</td>
+            <td>AUX fan (1232 blower)</td>
             <td>1</td>
-            <td><a href="#" rel="nofollow"></a></td>
-            <td>OPTIONAL</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>AUX fan</td>
-            <td>1</td>
-            <td><a href="#" rel="nofollow"></a></td>
+            <td><a href="https://s.click.aliexpress.com/e/_DlIPXGz" rel="nofollow">Aliexpress</a></td>
             <td></td>
             <td></td>
         </tr>
@@ -130,7 +179,7 @@ __*This BOM is still a work in progress.__
             <td>Hotend(optional)</td>
             <td>1</td>
             <td><a href="#" rel="nofollow"></a></td>
-            <td>OPTIONAL. V6 will be support by default. Other hotends support will be added later.</td>
+            <td>OPTIONAL. Dragon, V6 and any other hotend have same mounting method are supported.</td>
             <td></td>
         </tr>
     <tbody>
