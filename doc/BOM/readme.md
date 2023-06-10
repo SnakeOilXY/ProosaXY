@@ -90,16 +90,16 @@ __*This BOM is still a work in progress.__
             <td></td>
         </tr>
         <tr>
-            <td>8mm linear shaft</td>
+            <td>8mm linear shaft 300mm</td>
             <td>1</td>
-            <td><a href="" rel="nofollow">Aliexpress</a></td>
+            <td><a href="https://s.click.aliexpress.com/e/_DkQvhBL" rel="nofollow">Aliexpress</a></td>
             <td>Will need to be cut to the right length.</td>
             <td></td>
         </tr>
         <tr>
             <td>MR115ZZ bearing</td>
             <td>2</td>
-            <td><a href="" rel="nofollow">Aliexpress</a></td>
+            <td><a href="https://s.click.aliexpress.com/e/_DCf9wSz" rel="nofollow">Aliexpress</a></td>
             <td></td>
             <td></td>
         </tr>
