@@ -35,6 +35,7 @@ CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performa
 ## Warning - read this
 
 - This mod requires some drilling on the original frame, cutting the original motor leadscrew, and linear shafts. This drilling/cutting is easy enough to be done with a hand drill and a hacksaw **BUT THERE IS NO WAY BACK. You won't be able to convert back to the original MK3/s machine if you change your mind later.**
+- Some small changes/patches might be needed after I have more test data and feedback..
 - To keep the cost down and reuse old components, there are some trade-offs I made:
     - Use smooth idlers in place of toothed idlers. (I'm not a fan of this method, but we don't have much space. This kind of design seems to work fine on other machines; Prusa also uses smooth idlers on their machine too.)
     - The machine is semi-enclosed by default and will need some printed panels and a top hats to fully enclose it.

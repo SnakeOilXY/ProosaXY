@@ -184,3 +184,26 @@ __*This BOM is still a work in progress.__
         </tr>
     <tbody>
 </table>
+
+## Parts might be needed on final release(testing now)
+
+<table>
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th>Quantity</th>
+            <th>link</th>
+            <th>Description</th>
+            <th>Other</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2GT 16T idler 3mm bore</td>
+            <td>1</td>
+            <td><a href="https://s.click.aliexpress.com/e/_DFCSOgZ" rel="nofollow">Aliexpress</a></td>
+            <td>Max height 8.5mm</td>
+            <td></td>
+        </tr>
+    <tbody>
+</table>
