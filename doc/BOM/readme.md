@@ -62,25 +62,11 @@ __*This BOM is still a work in progress.__
             <td></td>
         </tr>
         <tr>
-            <td>BMG Main Shaft Assembly</td>
+            <td>Hardware for Sherpa mini extruder</td>
             <td>1</td>
-            <td><a href="https://www.bondtech.se/product/shaft-assembly/" rel="nofollow">Bondtech</a></td>
-            <td>BMG plastic gear</td>
-            <td>Or get sherpa mini extruder full kit</td>
-        </tr>
-        <tr>
-            <td>Bearing for BMG shaft</td>
-            <td>2</td>
-            <td><a href="https://www.bondtech.se/product/ballbearing-5x8x2-5/" rel="nofollow">Bondtech</a></td>
-            <td>BMG plastic gear</td>
-            <td>Or get sherpa mini extruder full kit</td>
-        </tr>
-        <tr>
-            <td>New E motor</td>
-            <td>1</td>
-            <td><a href="https://s.click.aliexpress.com/e/_DF5e9Ol" rel="nofollow">Aliexpress</a></td>
-            <td>Round nema14 17mm thick</td>
-            <td>Or get sherpa mini extruder full kit</td>
+            <td><a href="https://s.click.aliexpress.com/e/_DDTsgzn" rel="nofollow">Full kit</a> or <a href="https://s.click.aliexpress.com/e/_DDMmLS9" rel="nofollow">Hardware only</a></td>
+            <td>Both 17mm and 20mm version of nema14 motor will fit. 20mm version run cooler, but 17mm version max speed is a little higher.</td>
+            <td>(body can be printed with ABS or filament with higher transition temperature)</td>
         </tr>
         <tr>
             <td>3rd Z motor (17hs3401s T8x8-310MM)</td>
