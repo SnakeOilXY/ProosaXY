@@ -118,7 +118,7 @@ __*This BOM is still a work in progress.__
             <td></td>
         </tr>
         <tr>
-            <td>Din rail 399mm</td>
+            <td>Din rail 430mm</td>
             <td>1</td>
             <td><a href="" rel="nofollow"></a></td>
             <td></td>
