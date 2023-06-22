@@ -28,7 +28,7 @@ __*This BOM is still a work in progress.__
         </tr>
         <tr>
             <td>F623RS bearing</td>
-            <td>40pcs (4 packs)</td>
+            <td>30pcs (3 packs)</td>
             <td><a href="https://s.click.aliexpress.com/e/_Dm4ZIwZ" rel="nofollow">Aliexpress</a></td>
             <td></td>
             <td></td>
@@ -38,6 +38,13 @@ __*This BOM is still a work in progress.__
             <td>1 pack</td>
             <td><a href="https://s.click.aliexpress.com/e/_Dkq37S5" rel="nofollow">Aliexpress</a></td>
             <td>3x5x0.5 mm</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2GT 16T idler 3mm bore</td>
+            <td>1</td>
+            <td><a href="https://s.click.aliexpress.com/e/_DFCSOgZ" rel="nofollow">Aliexpress</a></td>
+            <td>Max height 8.5mm</td>
             <td></td>
         </tr>
         <tr>
@@ -171,25 +178,3 @@ __*This BOM is still a work in progress.__
     <tbody>
 </table>
 
-## Parts might be needed on final release(testing now)
-
-<table>
-    <thead>
-        <tr>
-            <th>Item</th>
-            <th>Quantity</th>
-            <th>link</th>
-            <th>Description</th>
-            <th>Other</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>2GT 16T idler 3mm bore</td>
-            <td>1</td>
-            <td><a href="https://s.click.aliexpress.com/e/_DFCSOgZ" rel="nofollow">Aliexpress</a></td>
-            <td>Max height 8.5mm</td>
-            <td></td>
-        </tr>
-    <tbody>
-</table>
