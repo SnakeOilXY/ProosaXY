@@ -20,8 +20,7 @@ CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performa
 ## 2. Status
 
 - All the main parts design are completed. Test print result are posted in our [Discord server](https://discord.gg/WZVP2HuAag)
-- ~~The first beta is planned to release at the end of May.~~ I'm a little late. Will take me a few extra weeks to work on the BOM and the CAD assembly.
-- Might take a month or two for us to complete design all the optional parts. 
+- All part STLs are exported. I'm working on the final BOM and a simple build manual. 
 - For updates, please visit our [Discord server](https://discord.gg/WZVP2HuAag)
 
 
