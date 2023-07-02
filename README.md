@@ -50,40 +50,28 @@ CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performa
         <tr>
             <th></th>
             <th align="center">Mk4 bonker benchy</th>
-            <th align="center">SpeedBoatRace</th>
-            <th align="center">Slow benchy</th>
+            <th align="center">Real-world print</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Video</td>
-            <td align="center"><a href="https://youtu.be/pQPhEykthEg" rel="nofollow">
-            <img src="https://img.youtube.com/vi/pQPhEykthEg/0.jpg" alt="Bed coupling"/></a></td>
-            <td align="center"><a href="https://youtu.be/tPoP6zmxsCY" rel="nofollow">
-            <img src="https://img.youtube.com/vi/tPoP6zmxsCY/0.jpg" alt="Speed benchy"/></a></td>
-            <td align="center"><a href="https://youtu.be/kLawpgAUUPE" rel="nofollow">
+            <td align="center"><a href="https://youtu.be/1M5wx4Q0jNs" rel="nofollow">
+            <img src="https://img.youtube.com/vi/1M5wx4Q0jNs/0.jpg" alt="bonker benchy test print"/></a></td>
+            <td align="center"><a href="https://youtu.be/Dink3JQ" rel="nofollow">
+            <img src="https://img.youtube.com/vi/Dink3JQ-bNY/0.jpg" alt="normal test print"/></a></td>
         </tr>
         <tr>
             <td>Description</td>
-            <td>I use the setting Prusa used on their mk4 12 mins benchy with accel pump up a little.</td>
-            <td><img src="https://github.com/SnakeOilXY/ProosaXY/doc/img/setting_standard.png"></img></td>
+            <td>I use the setting Prusa used on their mk4 12 mins benchy with accel pump up a little.</br>
+            <a href="https://github.com/SnakeOilXY/ProosaXY/tree/master/doc/img/bonker-benchy">Print result (images)</a></br>
+            <img src="https://github.com/SnakeOilXY/ProosaXY/blob/master/doc/img/setting_benchy.png?raw=true"></td>
+            <td><img src="https://github.com/SnakeOilXY/ProosaXY/blob/master/doc/img/setting_standard.png?raw=true"></td>
         </tr>
     </tbody>
 </table>
 
-
-
-[Video link]()  
-[Print result](./doc/img/bonker-benchy/)
-
-![](./doc/img/setting_benchy.png)
-
-
-
-### 4.2 Realworld print speed.
-![](./doc/img/setting_standard.png)
-
-### 4.3 Images
+### 4.2 Images
 ![](./doc/img/preview-01.jpg)
 ![](./doc/img/preview-02.jpg)
 ![](./doc/img/preview-03.jpg)
