@@ -11,7 +11,7 @@ CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performa
 ## 1. Features
 
 - Better performance (check input-shaper graph bellow)
-- Semi-enclosure by default
+- Semi-enclosure by default. Panels mount and top hat parts will be added later.
 - ~~Dual z axis(default) or independent tripple Z axis(Optional)~~ Triple Z (independent or sync based on controller board) by default or dual Z(optional)
 - Single v6 hotend(default) or mixed 2-in-1-out hotend(WIP)
 - Optional AUX cooling fan
@@ -20,7 +20,9 @@ CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performa
 ## 2. Status
 
 - All the main parts design are completed. Test print result are posted in our [Discord server](https://discord.gg/WZVP2HuAag)
-- All part STLs are exported. I'm working on the final BOM and a simple build manual. 
+- All part STLs are exported. 
+- Full BOM added 2023/07/11
+- I'm working on a simple build log/manual. 
 - For updates, please visit our [Discord server](https://discord.gg/WZVP2HuAag)
 
 
@@ -37,7 +39,8 @@ CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performa
     - The machine is semi-enclosed by default and will need some printed panels and a top hats to fully enclose it.
     - To match the frame height, cutting the motor leadscrew and linear shafts is required.
 ## BOM
-[>>> Bill of materials (work in progress) <<<](./doc/BOM/readme.md)
+
+[>>> Bill of materials <<<](./doc/BOM/readme.md)
 
 ## 4. Test run videos and images
 
