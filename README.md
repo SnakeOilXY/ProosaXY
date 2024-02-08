@@ -10,12 +10,13 @@ CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performa
 
 ## 1. Features
 
-- Better performance (check input-shaper graph bellow)
+- Better performance (check input-shaper graph bellow).
 - Semi-enclosure by default. Panels mount and top hat parts will be added later.
-- ~~Dual z axis(default) or independent tripple Z axis(Optional)~~ Triple Z (independent or sync based on controller board) by default or dual Z(optional)
-- Single v6 hotend(default) or mixed 2-in-1-out hotend(WIP)
-- Optional AUX cooling fan
-- Our industrial leading SnakeOil technology
+- ~~Dual z axis(default) or independent tripple Z axis(Optional)~~ Triple Z (independent or sync based on controller board) by default or dual Z(optional).
+- Single v6 hotend(default) or mixed 2-in-1-out hotend(WIP).
+- Optional AUX cooling fan.
+- Semi-enclosured(default) or Fully-enclosured with top hat(comming soon).
+- Our industrial leading SnakeOil technology :).
 
 ## 2. Status
 
