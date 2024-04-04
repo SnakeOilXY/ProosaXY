@@ -21,7 +21,7 @@ Most of the parts are designed to be printed without support(for exception, chec
 |   |   |   |
 |---|---|---|
 | 3x_pom-nut-mounter.stl |   | Need support on build plate |
-| 2x_y-carrier_***.stl | ![2x_y-carrier_***](./img/2x_y-carrier_***.png) | Custom support inside the channel due to some thin walls. |
+| 2x_y-carrier_***.stl | ![2x_y-carrier_***](./img/2x_y-carrier_supports.png) | Custom support inside the channel due to some thin walls. |
 |   |   |   |
 
 ## 2.Filament
