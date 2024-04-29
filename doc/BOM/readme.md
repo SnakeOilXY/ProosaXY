@@ -1,6 +1,9 @@
 # Bill of materials
 
-New BOM are moved to google doc [Click here](https://docs.google.com/spreadsheets/d/1j1bnA8rNjDqpTVEdiqrsRlNeggI6PYRAoSBm1F8bvCs/edit?usp=sharing)
+## New BOM are moved to google doc [Click here](https://docs.google.com/spreadsheets/d/1j1bnA8rNjDqpTVEdiqrsRlNeggI6PYRAoSBm1F8bvCs/edit?usp=sharing)
+
+
+## Openbeta kit are available here : [Fabreeko store](https://www.fabreeko.com/products/proosa-xy-conversion-for-mk3s-to-core-xy-by-snakeoilxy-open-beta)
 
 - Last update : 2023/07/11
 - There are 2 parts of the BOM. The requirement parts and option parts. 
