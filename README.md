@@ -4,7 +4,6 @@
 <a href='https://ko-fi.com/F1F06RMBO' target='_blank'><img height='36' style='border:0px;height:40px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <a href='https://www.amazon.jp/hz/wishlist/ls/2AHXTCG01RYAZ?ref_=wl_share' target='_blank'><img height='36' style='border:0px;height:40px; !important;border-radius: 19px' src='./doc/logo/buy-me-a-spool.png' border='0' alt='Buy Me a spool at amazon Japan' /></a>
 
-
 # ProosaXY
 CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performance out of your 6 years old machine with the lowest cost possible by re-using most the MK3/S stock parts.
 
@@ -39,7 +38,10 @@ CoreXY conversion for Prusa MK3/S. This build is aiming at getting more performa
 - To keep the cost down and reuse old components, there are some trade-offs I made:
     - The machine is semi-enclosed by default and will need some printed panels and a top hats to fully enclose it.
     - To match the frame height, cutting the motor leadscrew and linear shafts is required.
+
 ## BOM
+
+[Fabreeko ProosaXY Conversion Kit (Open Beta)](https://www.fabreeko.com/products/proosa-xy-conversion-for-mk3s-to-core-xy-by-snakeoilxy-open-beta) available now.
 
 [>>> Bill of materials <<<](./doc/BOM/readme.md)
 
