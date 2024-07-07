@@ -91,12 +91,14 @@ This printer design use the following parts from other opensource project:
 - Fan duct from [EVA 2.3](https://github.com/EVA-3D/eva-main)
 - Filament sensor from [Bear Extruder And X Axis (BearExxa)](https://github.com/gregsaun/bear_extruder_and_x_axis)
 - Sherpa mini extruder from [Annex Engineering](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
-- Original hardware from [Prusa MK3](https://github.com/prusa3d/Original-Prusa-i3)
+- Din mounter from [Voron design](https://github.com/VoronDesign)
+- Original hardwares from [Prusa MK3](https://github.com/prusa3d/Original-Prusa-i3)
 
 ### License
 
 - [Sherpa mini extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) is an original work of [Annex Engineering](https://github.com/Annex-Engineering), modified parts using their source code/design files are re-released under [ANNEX Engineering License](https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement/blob/main/LICENSE.md).
 - [EVA2](https://github.com/EVA-3D/eva-main) is an original work of [EVA-3D](https://github.com/EVA-3D), modified parts using their source code/design files are re-released under [GNU General Public License v3.0](https://github.com/EVA-3D/eva-main/blob/main/LICENSE)
 - [Bear Extruder And X Axis (BearExxa)](https://github.com/gregsaun/bear_extruder_and_x_axis) is an original work of [Grégoire Saunier](https://github.com/gregsaun), modified parts using their source code/design files are re-released under [GNU General Public License v3.0](https://github.com/gregsaun/bear_extruder_and_x_axis/blob/master/LICENSE)
+- [Voron]() is an original work of [Voron design](https://github.com/VoronDesign), modified parts using their source code/design files are re-released under [GNU General Public License v3.0](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/LICENSE)
 - [Prusa MK3](https://github.com/prusa3d/Original-Prusa-i3) is an original work of [Prusa3D](https://github.com/prusa3d), modified parts using their source code/design files are re-released under [GNU General Public License v2.0](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/LICENSE)
 - This printer design(ProosaXY), it's document and software are released under [GNU General Public License v3.0](https://github.com/SnakeOilXY/ProosaXY/blob/master/LICENSE)
