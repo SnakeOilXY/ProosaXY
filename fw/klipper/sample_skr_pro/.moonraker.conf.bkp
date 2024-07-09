@@ -1,0 +1,38 @@
+[server]
+host = 0.0.0.0
+port = 7125
+klippy_uds_address = /tmp/klippy_uds
+
+[database]
+
+[authorization]
+trusted_clients = 
+	10.0.0.0/8
+	127.0.0.0/8
+	169.254.0.0/16
+	172.16.0.0/12
+	192.168.0.0/16
+	FE80::/10
+	::1/128
+cors_domains = 
+	http://*.lan
+	http://*.local
+	https://my.mainsail.xyz
+	http://my.mainsail.xyz
+	https://app.fluidd.xyz
+	http://app.fluidd.xyz
+
+[file_manager]
+
+[octoprint_compat]
+
+[history]
+
+[power PSU]
+type = tasmota
+locked_while_printing = True
+restart_klipper_when_powered = True
+restart_delay = 5
+address = 192.168.1.204
+password = qaz134679
+
