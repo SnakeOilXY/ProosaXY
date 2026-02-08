@@ -26,6 +26,8 @@ On filament configuration
 
 end filament gcode 
 	_TRADRACK_CUT_FILAMENT
+optional for custom lenghts in mm (do not put anything above 36mm for TZ-V6 + Sherpa mini)
+	_TRADRACK_CUT_FILAMENT CUSTOM_RETRACT=xx 
 
 Set to 0 all parameters of MMU , you dont want any cooling or shapetip
 Adjust ramming 
