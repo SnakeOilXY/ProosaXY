@@ -4,6 +4,8 @@ This is a small step-by-step guide to configure the Prusa Mini stock LCD on klip
 
 Klipper doesn't support by default the screen, this is based on this [old fork](https://github.com/singh-gur/mini_klipper), the problem of these fork is no longer maintained, and you can't update klipper version because it breaks, the module itself is outdated and can't run on an actual mainsail installation because the different python versions, most of the code uses deprecated functions.
 
+There was also a problem with cs_pin reservation with new klipper versions.
+
 This is a complete rework, installing and configuring only the necesary, you can update klipper but you will need to apply these changes again, I tried to optimize the code a bit the screen runs a bit slow, but is usable.
 
 ## 1. Configuring the system
