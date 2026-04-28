@@ -81,3 +81,7 @@ The printing settings of the videos are the following. Intended for fast-quality
 * 40mm/s travel
 
 Only Z-hop on top surfaces
+
+### 3.4 Build your own Proosa XY :)
+
+Check README on doc folder.
