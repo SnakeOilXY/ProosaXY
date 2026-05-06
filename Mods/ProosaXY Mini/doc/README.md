@@ -22,7 +22,7 @@ At this moment to avoid to delay the release to much we don't have at the moment
 
 ## 2. BOM
 
-The bom is located here:
+The bom is located here: [ BOM (GOOGLE DOCS), check Proosa Mini tab](https://docs.google.com/spreadsheets/d/1j1bnA8rNjDqpTVEdiqrsRlNeggI6PYRAoSBm1F8bvCs/edit?gid=1180102657#gid=1180102657)
 
 ### 2.1 Optional upgrades / options
 
