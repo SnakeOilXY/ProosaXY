@@ -16,7 +16,7 @@ This is the MINI version of ProosaXY using a Prusa MINI as a donor. Transforming
 
 ## 2. Warning - read this
 
-- This mod requires cutting the original motor leadscrew, and linear shafts. This utting is easy enough to be done with hacksaw or other tools **BUT THERE IS NO WAY BACK. You won't be able to convert back to the original MINI machine if you change your mind later.**
+- This mod requires cutting the original motor leadscrew, and linear shafts. This utting is easy enough to be done with hacksaw or other tools**BUT THERE IS NO WAY BACK. You won't be able to convert back to the original MINI machine if you change your mind later.**
 
 ## 3. Test run videos and images
 
@@ -85,3 +85,7 @@ Only Z-hop on top surfaces
 
 Check README on doc folder.
 The bom is located here: [ BOM (GOOGLE DOCS), check Proosa Mini tab](https://docs.google.com/spreadsheets/d/1j1bnA8rNjDqpTVEdiqrsRlNeggI6PYRAoSBm1F8bvCs/edit?gid=1180102657#gid=1180102657)
+
+Check the CAD file under src/step section :)
+
+<img src="assets/20260509_014510_proosa_mini_cad_file.png" alt="Alt Text" style="width:50%; height:auto;"></a>
