@@ -1,4 +1,4 @@
-# ProosaXY Front belt tensioners
+# ProosaXY Rear live idlers
 
 ## 1. Intro
 
