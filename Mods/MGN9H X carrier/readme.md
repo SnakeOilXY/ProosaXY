@@ -1,5 +1,13 @@
 # ProosaXY MGN9H X-carrier toolhead
 
+## Main advantage
+
+With this carrier attached to linear guide instead of round LM8UU bearings you removed a lot of toolhead wiggle on hard accelerations that impact on printing quality at high accels/speeds.
+
+Also have a more easy to fit belts in case of needed to do some maintenance.
+
+It have a motor support to remove the wiggle produced by the weight of the stepper motor, this support it's only compatible with sherpa extruder.
+
 ## IMPORTANT printing instructions
 
 You need to print with 0.15mm layer height all parts and enable supports. Due some organic structures and critical parts it's better to leave this to user. Because some filaments perform different than others on overhangs/z-distance of supports.
