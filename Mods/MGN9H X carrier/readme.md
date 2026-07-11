@@ -4,33 +4,45 @@
 
 You need to print with 0.15mm layer height all parts and enable supports. Due some organic structures and critical parts it's better to leave this to user. Because some filaments perform different than others on overhangs/z-distance of supports.
 
-## IMPORTANT bambulab version
+6-7 walls recomended.
 
-Its intended to fit aftermarket or OEM heating assembly of Bambulab A1, may can work with H2 but not tested. The insulator part need to be printed with heat resistant material, ABS/ASA is not suitable for that piece. The heating assembly has two parts, the hot and the cold, the cold zone has no problem and it's where the mounting screws are fitted, but you need to protect the X-carrier from the heat, the hot zone go really hot.
+## Compatibility with parts of LM8UU carrier
 
-PC+PBT+GF with HDT of 120ºC melts a bit, this material is perfect due if you don't anneal its anneal for itself when cooldown. and hold okay without problems.
+Except for bambulab version that is have an special carrier, all hotend mounts and extruder mounts of LM8UU are compatible with this, even the fan mounts.
 
-PA12-CF it's also suitable, made the part of 1mm of thickness to don't have problems with creep. The final version will use a 1mm FR4 PCB, you can also use a universal prototiping board with that thickness and cut by hand. Or whatever you have that insulate with that thickness.
+Also the bambulab version can fit hotend mounts designed for LM8UU version, but you can fit the lower part, for example the V6 stabilizer, but we working on design these mounts to fit on bambulab version and maintain only one carrier.
 
-You can use also kapton tape also.
+## Reinforcements
 
-100 Hours of printing filaments at 275-290ºC.
+Check the cad to see the reinforcements, the dowel pin ones they aren't 100% required but we recomend to install, also the M3 ones gives some support for M3x8 screws that fits the printed piece to the cart. Allowing to thigthen without material creep.
 
-The cold side screws are still thigtened.
+### Main body front
+
+The M3 dowel pins are required to mount the belt clips
+
+The M2x50 ones are not required but ensures a lot of rigidity
+
+The body has slots within the printed piece to enforce more perimeters.
+
+On bambulab version The M2x50 dowel pins are required to ensure rigidity and avoid material creep/loosening the screws.
 
 <p style="text-align:center;">
-<a href=assets/20260709_030616_bbl_hotend_insulation1.jpeg><img src="assets/20260709_030616_bbl_hotend_insulation1.jpeg" alt="Alt Text" style="width:40%; height:auto;"></a>
-<a href=assets/20260709_030616_bbl_hotend_insulation3.jpeg><img src="assets/20260709_030616_bbl_hotend_insulation3.jpeg" alt="Alt Text" style="width:40%; height:auto;"></a>
+<a href=assets/20260711_134550_mgn9h-main-body-reinforcements-front.png><img src="assets/20260711_134550_mgn9h-main-body-reinforcements-front.png" alt="Alt Text" style="width:40%; height:auto;"></a>
+<a href=assets/20260711_134550_mgn9h-main-body-reinforcements-front-bbl.png><img src="assets/20260711_134550_mgn9h-main-body-reinforcements-front-bbl.png" alt="Alt Text" style="width:40%; height:auto;"></a>
 </p>
 
-The pc+pbt+gf do a great job insulating
+### Main body top
+
+These reinforcements are mandatory, you can run without but the carrier it's designed to have it.
 
 <p style="text-align:center;">
-<a href=assets/20260709_030616_bbl_hotend_insulation2.jpeg><img src="assets/20260709_030616_bbl_hotend_insulation2.jpeg" alt="Alt Text" style="width:40%; height:auto;"></a>
+<a href=assets/20260711_135029_mgn9h-main-body-reinforcements-top.png><img src="assets/20260711_135029_mgn9h-main-body-reinforcements-top.png" alt="Alt Text" style="width:40%; height:auto;"></a>
 </p>
 
-You can also add kapton tape. The test was made without kapton tape.
+### Rear part
+
+These reinforcements are not critical, but it's recomended. The top M3x35 screw you can put as long you want, if you have a M3x60 you can fit. It reinforces the printed piece.
 
 <p style="text-align:center;">
-<a href=assets/20260709_030616_bbl_hotend_insulation4.jpeg><img src="assets/20260709_030616_bbl_hotend_insulation4.jpeg" alt="Alt Text" style="width:40%; height:auto;"></a>
+<a href=assets/20260711_135116_mgn9h-rear.png><img src="assets/20260711_135116_mgn9h-rear.png" alt="Alt Text" style="width:40%; height:auto;"></a>
 </p>
