@@ -16,7 +16,15 @@ This aftermarket heating assembly it's intended to trick bambulab firmware/hardw
 
 We tested with 30mm3/s at 295ºC, the heater was at 50-60% duty cycle.
 
+## IMPORTANT Printing instructions
+
+The 1x_bambulab_fan_pinda_support requires to be printed with 0.15mm layer height, no supports required, they are modeled.
+
+Enable supports for critical regions only on carrier_main_body parts and 0.15mm layer height.
+
 ## IMPORTANT bambulab version
+
+Requires to print the bambulab style X-Carrier
 
 Its intended to fit aftermarket or OEM heating assembly of Bambulab A1, may can work with H2 but not tested. The insulator part need to be printed with heat resistant material, ABS/ASA is not suitable for that piece. The heating assembly has two parts, the hot and the cold, the cold zone has no problem and it's where the mounting screws are fitted, but you need to protect the X-carrier from the heat, the hot zone go really hot.
 
