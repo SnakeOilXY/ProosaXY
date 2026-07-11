@@ -54,3 +54,21 @@ These reinforcements are not critical, but it's recomended. The top M3x35 screw 
 <p style="text-align:center;">
 <a href=assets/20260711_135116_mgn9h-rear.png><img src="assets/20260711_135116_mgn9h-rear.png" alt="Alt Text" style="width:40%; height:auto;"></a>
 </p>
+
+## BOM
+
+| Part                 | Quanty | Notes                         |
+| -------------------- | ------ | ----------------------------- |
+| M2x40 Dowel pin      | 4      | for reinforcements            |
+| M3x40 Dowel pin      | 2      | For Belt clip assembly        |
+| M3x4x4.2 Heat Insert | 14     | Standard ProosaXY heat insert |
+| M3x10 BHCS           | 2      |                               |
+| M3x25 BHCS           | 2      | for reinforcements            |
+| M3x30 BHCS           | 2      | for reinforcements            |
+| M3x35 BHCS           | 3      |                               |
+| M3x8 SHCS            | 4      | For MGN9H fixing              |
+| M3x10 SHCS           | 2      | For motor support             |
+| M3x16 SHCS           | 2      | For fan support               |
+| M3x20 SHCS           | 2      | For motor support             |
+| M3x40 SHCS           | 2      | For rear support              |
+| M3x3x7 Washer        | 4      |                               |
